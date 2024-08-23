@@ -1,4 +1,4 @@
-ultralytics==8.0.136
+ultralytics
 streamlit==1.24.0
 py-cpuinfo
 Pillow==8.4.0
